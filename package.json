@@ -1,5 +1,5 @@
 {
-  "name": "@artik0din/mcp-git",
+  "name": "globodai-mcp-git",
   "version": "1.0.0",
   "description": "Complete Git CLI MCP Server - all git operations for AI assistants",
   "author": "Kevin Valfin <kevin@globodai.com>",
@@ -40,9 +40,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/artik0din/mcp-git.git"
+    "url": "https://github.com/globodai-group/mcp-git.git"
   },
   "engines": {
     "node": ">=16"
+  },
+  "homepage": "https://github.com/globodai-group/mcp-git#readme",
+  "bugs": {
+    "url": "https://github.com/globodai-group/mcp-git/issues"
   }
 }
